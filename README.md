@@ -24,7 +24,7 @@ Due to company policy, the dataset used in this project is internal and cannot b
 ### Installation and Usage
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/Project_RGB_D_SensorFusion.git
+   git clone https://github.com/MaxwellJYQ/Project_RGB_D_SensorFusion.git
    cd Project_RGB_D_SensorFusion
    ```
 
